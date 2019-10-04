@@ -1,0 +1,9 @@
+/* Used google fonts instead of SEGA font file download */
+
+@import url(https://fonts.googleapis.com/css?family=Bungee+Inline|Monoton&display=swap);
+
+h1 {
+  font-family: "Monoton", cursive;
+  font-weight: 580;
+  color: #0ccac4;
+}
